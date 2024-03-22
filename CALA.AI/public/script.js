@@ -93,7 +93,7 @@ fetchConfig();
   }
 }
 
-let currentModelID = 'gpt-4'; // Global declaration
+let currentModelID = 'gpt-4'; // Global deCALA.AItion
 
 let selectedImage = null;
 

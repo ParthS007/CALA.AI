@@ -1,4 +1,4 @@
-# CLARA
+# CALA.AI
 
 ---
 
@@ -6,14 +6,14 @@ Maximizing productivity through Employee Happiness
 
 ## Overview
 
-CLARA is a revolutionary initiative designed to foster a positive and productive work environment by prioritizing employee happiness. Understanding the direct correlation between happy employees and increased productivity, CLARA offers an array of tools, resources, and programs aimed at enhancing job satisfaction, work-life balance, and overall well-being.
+CALA.AI is a revolutionary initiative designed to foster a positive and productive work environment by prioritizing employee happiness. Understanding the direct correlation between happy employees and increased productivity, CALA.AI offers an array of tools, resources, and programs aimed at enhancing job satisfaction, work-life balance, and overall well-being.
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Key Features](#key-features)
 3. [Getting Started](#getting-started)
-4. [Using CLARA](#using-CLARA)
+4. [Using CALA.AI](#using-CALA.AI)
 5. [Feedback & Suggestions](#feedback--suggestions)
 6. [Community & Support](#community--support)
 7. [Updates & Roadmap](#updates--roadmap)
@@ -24,7 +24,7 @@ CLARA is a revolutionary initiative designed to foster a positive and productive
 
 ## Introduction
 
-At the heart of CLARA is a commitment to creating a workplace where employees feel valued, engaged, and motivated. We believe that by addressing the holistic needs of our team members, we can unlock their full potential and drive our collective success.
+At the heart of CALA.AI is a commitment to creating a workplace where employees feel valued, engaged, and motivated. We believe that by addressing the holistic needs of our team members, we can unlock their full potential and drive our collective success.
 
 ## Key Features
 
@@ -36,12 +36,12 @@ At the heart of CLARA is a commitment to creating a workplace where employees fe
 
 ## Getting Started
 
-To begin your journey with CLARA, follow these simple steps:
+To begin your journey with CALA.AI, follow these simple steps:
 1. Sign up for an account on our platform.
 2. Complete the onboarding process, which includes a short survey about your preferences and goals.
 3. Explore the available resources and enroll in programs that resonate with your interests and needs.
 
-## Using CLARA
+## Using CALA.AI
 
 Navigate through our user-friendly dashboard to:
 - **Track Progress**: Monitor your participation in various programs and view your achievements.
@@ -50,7 +50,7 @@ Navigate through our user-friendly dashboard to:
 
 ## Feedback & Suggestions
 
-Your input is invaluable in shaping CLARA into the most effective platform for employee happiness. Please share your thoughts, feedback, and suggestions through our feedback form or directly contact our support team.
+Your input is invaluable in shaping CALA.AI into the most effective platform for employee happiness. Please share your thoughts, feedback, and suggestions through our feedback form or directly contact our support team.
 
 ## Community & Support
 
@@ -70,12 +70,12 @@ For inquiries, assistance, or more information, please don't hesitate to [contac
 
 ## Acknowledgments
 
-We extend our heartfelt gratitude to everyone who has contributed to the development and growth of CLARA. Your insights, feedback, and unwavering support have been instrumental in our journey.
+We extend our heartfelt gratitude to everyone who has contributed to the development and growth of CALA.AI. Your insights, feedback, and unwavering support have been instrumental in our journey.
 
 ## License
 
-CLARA is proudly open-source and licensed under [MIT License](#). We believe in the power of collaboration and invite you to join us in making a positive impact in workplaces around the world.
+CALA.AI is proudly open-source and licensed under [MIT License](#). We believe in the power of collaboration and invite you to join us in making a positive impact in workplaces around the world.
 
 ---
 
-Thank you for choosing CLARA. Together, let's make happiness the cornerstone of productivity and success.
+Thank you for choosing CALA.AI. Together, let's make happiness the cornerstone of productivity and success.
